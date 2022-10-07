@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "iOSLockScreen",
+    "description": "iOSLockScreen",
+
+    "android": {
+      "package": "com.yourcompany.yourappname"
+    }
+  }
+}
